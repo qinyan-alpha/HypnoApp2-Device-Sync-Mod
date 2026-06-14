@@ -1,5 +1,12 @@
 HypnoApp2 Device Sync Mod
+
+
+
 A DLL hook mod for 洗脳アプリで清楚なお嬢様をドスケベ調教するシミュレーション (hypnoApp2) that synchronizes supported external devices with in-game motion/state.
+
+
+
+
 Supported devices:
 T-Code compatible devices, including SR6, SSR1, and OSR2
 Intiface Central devices that support LinearCmd
